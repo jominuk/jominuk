@@ -2,7 +2,7 @@
 
 # Welcome "Jo Min Uk" GitHub👋
   
-  ### 🛠 Tech Stack
+  ## 🛠 Tech Stack
   
 <!--   <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
   
@@ -13,6 +13,13 @@
   <br> </br>
   
   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=plastic&logo=Redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-toolkit-764ABC?style=plastic&logo=Redux-toolkit&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Query-FF4154?style=plastic&logo=React-Query&logoColor=white" />
+  <img src="https://img.shields.io/badge/SWR-FFFFFF?style=plastic&logo=SWR&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=plastic&logo=Socket.io&logoColor=white" />
+  
+  
   
 
 <!--
