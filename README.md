@@ -27,7 +27,21 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=plastic&logo=Redux&logoColor=white" />
 -->
 <img src="https://img.shields.io/badge/Redux-toolkit-764ABC?style=plastic&logo=Redux-toolkit&logoColor=white" />
-<img alt="TanStackQuery" src="https://img.shields.io/twitter/url?color=%2308a0e9&label=%23TanStack-Query&style=social&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Fbutton_hashtag%3DTanStack">
-
+<img alt="React-Query" src="https://img.shields.io/twitter/url?color=%2308a0e9&label=%23React-Query&style=social&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Fbutton_hashtag%3DTanStack">
 
 <!--   <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
+
+
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven&theme=light)](https://skillicons.dev)
+</br>
+<img src="https://img.shields.io/badge/MyBatis-764ABC?style=plastic&logo=MyBatis&logoColor=white" />
+
+[![My Skills](https://skillicons.dev/icons?i=figma,visualstudio,eclipse&theme=light)](https://skillicons.dev)
+
+
+
+
+
