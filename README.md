@@ -35,11 +35,13 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 
+<!--
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven&theme=light)](https://skillicons.dev)
 </br>
 <img src="https://img.shields.io/badge/MyBatis-764ABC?style=plastic&logo=MyBatis&logoColor=white" />
 
 [![My Skills](https://skillicons.dev/icons?i=figma,visualstudio,eclipse&theme=light)](https://skillicons.dev)
+-->
 
 
 
