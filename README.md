@@ -21,6 +21,7 @@
 
 <p herf="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,redux&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=nextjs&perline=6"/>
 </p>
 <!--
 <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white" />
