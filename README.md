@@ -39,7 +39,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven&theme=light)](https://skillicons.dev)
 </br>
-<img src="https://img.shields.io/badge/MyBatis-764ABC?style=plastic&logo=MyBatis&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/MyBatis-764ABC?style=plastic&logo=MyBatis&logoColor=white" /> -->
 
 
 <!--
